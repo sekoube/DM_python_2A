@@ -1,0 +1,10 @@
+```
+pandas
+matplotlib
+geopandas
+numpy
+great_tables
+cartiflette
+jupyter
+
+```
